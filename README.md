@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-The more you show us who you are, the more we get to know your limits.
-
 <!--
 **hexplus/hexplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
